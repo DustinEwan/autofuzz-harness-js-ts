@@ -15,7 +15,7 @@ Install runs `npm ci`, then `npm run build`, then drives the conformance suite a
 A scan project names the harness and no command:
 
 ```json
-{ "codebase": { "harness": "js-ts" } }
+{ "harness": { "name": "js-ts" } }
 ```
 
 The engine resolves the plugin argv from the registry record. To try the plugin on the fixture that ships here:

@@ -118,8 +118,10 @@ function failureDetail(error: unknown): string {
   return error instanceof Error ? `${error.name}: ${error.message}` : String(error);
 }
 
-/** `codebase.rejectClasses` from the scan project, when the project declares it. */
-async function readRejectClasses(configPath: string | null | undefined): Promise<string[]> {
+// Exported for `test/contract.test.mjs`, which pins that the reader follows the scan
+// project's `harness.options.rejectClasses` path rather than falling back to defaults.
+/** `harness.options.rejectClasses` from the scan project, when the project declares it. */
+export async function readRejectClasses(configPath: string | null | undefined): Promise<string[]> {
   if (!configPath) return [...DEFAULT_REJECT_CLASSES];
   let text: string;
   try {
@@ -128,8 +130,9 @@ async function readRejectClasses(configPath: string | null | undefined): Promise
     return [...DEFAULT_REJECT_CLASSES];
   }
   const parsed: unknown = JSON.parse(text);
-  if (!isRecord(parsed) || !isRecord(parsed.codebase)) return [...DEFAULT_REJECT_CLASSES];
-  const declared = parsed.codebase.rejectClasses;
+  if (!isRecord(parsed) || !isRecord(parsed.harness)) return [...DEFAULT_REJECT_CLASSES];
+  const options = isRecord(parsed.harness.options) ? parsed.harness.options : {};
+  const declared = options.rejectClasses;
   if (!Array.isArray(declared)) return [...DEFAULT_REJECT_CLASSES];
   return declared.filter((item): item is string => typeof item === "string");
 }

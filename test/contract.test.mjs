@@ -5,13 +5,15 @@
 // compared with the plugin interface in `docs/architecture.md`.
 
 import assert from "node:assert/strict";
-import { readFileSync } from "node:fs";
+import { mkdtempSync, readFileSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import test from "node:test";
 
 import * as coverage from "../dist/coverage.js";
 import * as wire from "../dist/protocol.js";
+import { readRejectClasses } from "../dist/server.js";
 
 const packageRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 // The wire-vocabulary contract lives in the engine repository. `AFZ_DOCS` names an engine
@@ -171,4 +173,19 @@ test("a coverage map entry carries the fields the generated schema requires", ()
       assert.deepEqual(sorted(Object.keys(entry)), sorted(spec.required), JSON.stringify(entry));
     }
   }
+});
+
+test("the rejectClasses reader follows the harness.options path", async () => {
+  // A scan project that declares its refusal classes must have them read from
+  // `harness.options.rejectClasses`. A reader that silently fell back to the defaults would
+  // reclassify every guard in the project, and nothing else would notice - so this is that
+  // check. The marker class is not in the defaults, so a fallback cannot pass.
+  const dir = mkdtempSync(join(tmpdir(), "afz-reject-"));
+  const configPath = join(dir, "autofuzz.json");
+  writeFileSync(configPath, JSON.stringify({ project: "p", harness: { name: "js-ts", options: { rejectClasses: ["BillingRefusal"] } } }));
+  assert.deepEqual(await readRejectClasses(configPath), ["BillingRefusal"]);
+  // And the checked-in project must declare the block the reader reads.
+  const billing = JSON.parse(readFileSync(join(packageRoot, "test-targets", "billing", "autofuzz.json"), "utf8"));
+  assert.equal(billing.codebase, undefined, "the checked-in project still declares `codebase`");
+  assert.equal(billing.harness.name, "js-ts");
 });
