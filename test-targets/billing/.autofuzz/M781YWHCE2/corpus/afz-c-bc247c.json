@@ -1,0 +1,1 @@
+{"name":"afz:c:bc247c","targetId":"afz:t:0bc7b7991acd","values":[{"node":"number","value":"infinity","provenance":{"mutated":{"op":"boundary","from":"boundary-table"}}},{"node":"literal","value":"BR","provenance":"generated"},{"node":"literal","value":"physical","provenance":"generated"}],"edges":[2875946210,2875946462]}

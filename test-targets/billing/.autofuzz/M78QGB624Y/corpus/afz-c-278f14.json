@@ -1,0 +1,1 @@
+{"name":"afz:c:278f14","targetId":"afz:t:73272f0c2b5c","values":[{"node":"object","fields":[["currency",{"node":"literal","value":"EUR","provenance":"generated"}],["minor",{"node":"number","value":-135978.42999277357,"provenance":"generated"}]],"provenance":"generated"},{"node":"literal","value":"EUR","provenance":"generated"}],"edges":[2215223648,2215224098,2215227266]}

@@ -1,0 +1,1 @@
+{"name":"afz:c:0d85a9","targetId":"afz:t:59ae70c3a8cd","values":[{"node":"literal","value":"USD","provenance":"generated"},{"node":"literal","value":"USD","provenance":{"mutated":{"op":"sibling","from":"literal"}}}],"edges":[2215226496,2215226608,2215226676,2215227002]}

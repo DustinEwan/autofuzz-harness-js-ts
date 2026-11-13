@@ -1,0 +1,1 @@
+{"name":"afz:c:c96046","targetId":"afz:t:1db3a336c231","values":[{"node":"number","value":"infinity","provenance":{"mutated":{"op":"boundary","from":"boundary-table"}}},{"node":"literal","value":"EUR","provenance":"generated"},{"node":"literal","value":"half-even","provenance":"generated"}],"edges":[3981648996,3981649242,3981650498,3981650578,3981650662,3981650692]}

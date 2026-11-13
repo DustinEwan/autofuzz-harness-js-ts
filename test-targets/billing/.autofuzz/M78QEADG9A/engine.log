@@ -1,0 +1,4 @@
+harness js-ts 0.1.0 (design-time), strategy Guided, seed 0x5e3a91c4
+finding afz:f:135ede04 at invocation 3644: failed Cannot read properties of undefined (reading 'code') (an earlier scan reported this identity, so it is not shrunk again)
+521 batches over 65878 ms: plan 6169 ms, run 52577 ms, account 3429 ms, setup 2853 ms, coverage map 307 ms
+7 invocations answered failed, each retiring the plugin's invoke worker

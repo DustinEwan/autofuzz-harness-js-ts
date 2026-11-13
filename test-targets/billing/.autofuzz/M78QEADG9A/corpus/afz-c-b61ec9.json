@@ -1,0 +1,1 @@
+{"name":"afz:c:b61ec9","targetId":"afz:t:9a3eed2e216d","values":[{"node":"number","value":0.5,"provenance":"generated"},{"node":"number","value":9.223372036854776e+18,"provenance":{"mutated":{"op":"sibling","from":"scalar"}}},{"node":"literal","value":"truncate","provenance":"generated"}],"edges":[3981648642,3981648930,3981648942,3981649486,3981649580,3981649768,3981654154]}

@@ -1,0 +1,7 @@
+{
+  "name": "js-ts",
+  "install": [["npm", "ci"]],
+  "build": [["npm", "run", "build"]],
+  "command": ["node", "dist/server.js"],
+  "conformance": { "emitter": ["node", "conformance/emit.mjs"], "deadlineMs": 1500 }
+}

@@ -1,0 +1,1 @@
+{"name":"afz:c:0f9552","targetId":"afz:t:9a3eed2e216d","values":[{"node":"number","value":357281.1540102088,"provenance":"generated"},{"node":"number","value":-1.0,"provenance":{"mutated":{"op":"boundary","from":"boundary-table"}}},{"node":"literal","value":"half-up","provenance":"generated"}],"edges":[3981648656,3981648986,3981648990,3981649486,3981649594,3981649708]}

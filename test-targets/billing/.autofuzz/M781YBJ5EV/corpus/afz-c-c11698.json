@@ -1,0 +1,1 @@
+{"name":"afz:c:c11698","targetId":"afz:t:0bc7b7991acd","values":[{"node":"number","value":"naN","provenance":{"mutated":{"op":"boundary","from":"boundary-table"}}},{"node":"literal","value":"BR","provenance":"generated"},{"node":"literal","value":"physical","provenance":"generated"}],"edges":[2875946210,2875946462]}

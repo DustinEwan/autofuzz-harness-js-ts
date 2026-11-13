@@ -1,0 +1,2014 @@
+{
+  "entries": [
+    {
+      "edge": 178552955,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1530,
+      "end": 2452
+    },
+    {
+      "edge": 178553249,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1385,
+      "end": 2538
+    },
+    {
+      "edge": 178553597,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 2452
+    },
+    {
+      "edge": 178553971,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 2046,
+      "end": 2452
+    },
+    {
+      "edge": 178554269,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1801,
+      "end": 2452
+    },
+    {
+      "edge": 178559009,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1322,
+      "end": 1385
+    },
+    {
+      "edge": 178559065,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 2452,
+      "end": 2539
+    },
+    {
+      "edge": 178559067,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 2452,
+      "end": 2538
+    },
+    {
+      "edge": 178559141,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 2538,
+      "end": 2539
+    },
+    {
+      "edge": 178559153,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 2037,
+      "end": 2046
+    },
+    {
+      "edge": 178559157,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1792,
+      "end": 1801
+    },
+    {
+      "edge": 178559521,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 1530
+    },
+    {
+      "edge": 178559543,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 1521
+    },
+    {
+      "edge": 178559751,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 1385
+    },
+    {
+      "edge": 178559873,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 1322
+    },
+    {
+      "edge": 178560553,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 2046
+    },
+    {
+      "edge": 178560575,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 2037
+    },
+    {
+      "edge": 178560967,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 1801
+    },
+    {
+      "edge": 178560981,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reissue.ts",
+      "start": 1209,
+      "end": 1792
+    },
+    {
+      "edge": 252887503,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1243,
+      "end": 1290
+    },
+    {
+      "edge": 252887567,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1488,
+      "end": 1505
+    },
+    {
+      "edge": 252887575,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1373,
+      "end": 1376
+    },
+    {
+      "edge": 252887617,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1706,
+      "end": 1724
+    },
+    {
+      "edge": 252887635,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 942,
+      "end": 945
+    },
+    {
+      "edge": 252887643,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1483,
+      "end": 1488
+    },
+    {
+      "edge": 252887655,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 945,
+      "end": 948
+    },
+    {
+      "edge": 252887659,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1376,
+      "end": 1379
+    },
+    {
+      "edge": 252887663,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1758,
+      "end": 1759
+    },
+    {
+      "edge": 252887671,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1239,
+      "end": 1242
+    },
+    {
+      "edge": 252887673,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1189,
+      "end": 1199
+    },
+    {
+      "edge": 252887721,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1724,
+      "end": 1758
+    },
+    {
+      "edge": 252887723,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1724,
+      "end": 1759
+    },
+    {
+      "edge": 252887725,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 776,
+      "end": 872
+    },
+    {
+      "edge": 252887841,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 776,
+      "end": 942
+    },
+    {
+      "edge": 252887843,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1388,
+      "end": 1483
+    },
+    {
+      "edge": 252887875,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1597,
+      "end": 1706
+    },
+    {
+      "edge": 252887903,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1052,
+      "end": 1157
+    },
+    {
+      "edge": 252887919,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 1597,
+      "end": 1724
+    },
+    {
+      "edge": 252887983,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 872,
+      "end": 905
+    },
+    {
+      "edge": 252890205,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 957,
+      "end": 1189
+    },
+    {
+      "edge": 252890273,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 957,
+      "end": 1243
+    },
+    {
+      "edge": 252890297,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 957,
+      "end": 1239
+    },
+    {
+      "edge": 252890415,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 957,
+      "end": 1052
+    },
+    {
+      "edge": 252891053,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/invoices.ts",
+      "start": 957,
+      "end": 1373
+    },
+    {
+      "edge": 255833737,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 1001,
+      "end": 1061
+    },
+    {
+      "edge": 255833743,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 1001,
+      "end": 1062
+    },
+    {
+      "edge": 255834147,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 859,
+      "end": 962
+    },
+    {
+      "edge": 255834215,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 859,
+      "end": 992
+    },
+    {
+      "edge": 255834229,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 859,
+      "end": 1001
+    },
+    {
+      "edge": 255834347,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 639,
+      "end": 642
+    },
+    {
+      "edge": 255834371,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 992,
+      "end": 1001
+    },
+    {
+      "edge": 255834391,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 1061,
+      "end": 1062
+    },
+    {
+      "edge": 255834409,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 962,
+      "end": 990
+    },
+    {
+      "edge": 255834453,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 604,
+      "end": 638
+    },
+    {
+      "edge": 255834639,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 642,
+      "end": 781
+    },
+    {
+      "edge": 255835127,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 638,
+      "end": 781
+    },
+    {
+      "edge": 255835653,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 470,
+      "end": 604
+    },
+    {
+      "edge": 255835715,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/accounts.ts",
+      "start": 470,
+      "end": 639
+    },
+    {
+      "edge": 358793620,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 881,
+      "end": 1024
+    },
+    {
+      "edge": 358795266,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 435,
+      "end": 521
+    },
+    {
+      "edge": 358795408,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 435,
+      "end": 576
+    },
+    {
+      "edge": 358795488,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 435,
+      "end": 632
+    },
+    {
+      "edge": 358796300,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 679,
+      "end": 794
+    },
+    {
+      "edge": 358796722,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 1141,
+      "end": 1303
+    },
+    {
+      "edge": 358796952,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 632,
+      "end": 655
+    },
+    {
+      "edge": 358797090,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 655,
+      "end": 677
+    },
+    {
+      "edge": 358797146,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 521,
+      "end": 543
+    },
+    {
+      "edge": 358797172,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 1378,
+      "end": 1379
+    },
+    {
+      "edge": 358797182,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 794,
+      "end": 798
+    },
+    {
+      "edge": 358797210,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 798,
+      "end": 872
+    },
+    {
+      "edge": 358797212,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/webhooks.ts",
+      "start": 1303,
+      "end": 1378
+    },
+    {
+      "edge": 1067971352,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 435,
+      "end": 561
+    },
+    {
+      "edge": 1067971560,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 435,
+      "end": 585
+    },
+    {
+      "edge": 1067971580,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 435,
+      "end": 579
+    },
+    {
+      "edge": 1067971586,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 582,
+      "end": 585
+    },
+    {
+      "edge": 1067971594,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 578,
+      "end": 585
+    },
+    {
+      "edge": 1067971606,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 579,
+      "end": 582
+    },
+    {
+      "edge": 1067971610,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 961,
+      "end": 962
+    },
+    {
+      "edge": 1067971620,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 904,
+      "end": 916
+    },
+    {
+      "edge": 1067971636,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 871,
+      "end": 883
+    },
+    {
+      "edge": 1067971714,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 798,
+      "end": 849
+    },
+    {
+      "edge": 1067971824,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 948,
+      "end": 962
+    },
+    {
+      "edge": 1067971834,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 561,
+      "end": 578
+    },
+    {
+      "edge": 1067971960,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 883,
+      "end": 961
+    },
+    {
+      "edge": 1067972080,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 1068,
+      "end": 1242
+    },
+    {
+      "edge": 1067972144,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 702,
+      "end": 936
+    },
+    {
+      "edge": 1067972208,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 702,
+      "end": 904
+    },
+    {
+      "edge": 1067972444,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 702,
+      "end": 798
+    },
+    {
+      "edge": 1067972486,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 702,
+      "end": 883
+    },
+    {
+      "edge": 1067972526,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 702,
+      "end": 871
+    },
+    {
+      "edge": 1067973586,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/lineitems.ts",
+      "start": 964,
+      "end": 1059
+    },
+    {
+      "edge": 1868144899,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 955,
+      "end": 1315
+    },
+    {
+      "edge": 1868145221,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 955,
+      "end": 1152
+    },
+    {
+      "edge": 1868145271,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 955,
+      "end": 1177
+    },
+    {
+      "edge": 1868145317,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 955,
+      "end": 1264
+    },
+    {
+      "edge": 1868145381,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 955,
+      "end": 1232
+    },
+    {
+      "edge": 1868145625,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 955,
+      "end": 1102
+    },
+    {
+      "edge": 1868147529,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 442,
+      "end": 519
+    },
+    {
+      "edge": 1868147731,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 930,
+      "end": 946
+    },
+    {
+      "edge": 1868147743,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "edge": 1868147757,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 806,
+      "end": 809
+    },
+    {
+      "edge": 1868147765,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1353,
+      "end": 1354
+    },
+    {
+      "edge": 1868147769,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 529,
+      "end": 532
+    },
+    {
+      "edge": 1868147831,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 896,
+      "end": 930
+    },
+    {
+      "edge": 1868147873,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1177,
+      "end": 1232
+    },
+    {
+      "edge": 1868147875,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 780,
+      "end": 836
+    },
+    {
+      "edge": 1868147913,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 829,
+      "end": 832
+    },
+    {
+      "edge": 1868147937,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1315,
+      "end": 1354
+    },
+    {
+      "edge": 1868147943,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1315,
+      "end": 1353
+    },
+    {
+      "edge": 1868147951,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 810,
+      "end": 836
+    },
+    {
+      "edge": 1868148143,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1102,
+      "end": 1152
+    },
+    {
+      "edge": 1868148183,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 832,
+      "end": 946
+    },
+    {
+      "edge": 1868148191,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 836,
+      "end": 946
+    },
+    {
+      "edge": 1868148289,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 833
+    },
+    {
+      "edge": 1868148367,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 806
+    },
+    {
+      "edge": 1868148375,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 810
+    },
+    {
+      "edge": 1868148409,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 829
+    },
+    {
+      "edge": 1868148435,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 776
+    },
+    {
+      "edge": 1868148443,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 780
+    },
+    {
+      "edge": 1868148481,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1232,
+      "end": 1353
+    },
+    {
+      "edge": 1868148629,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1264,
+      "end": 1315
+    },
+    {
+      "edge": 1868148641,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 1152,
+      "end": 1353
+    },
+    {
+      "edge": 1868148675,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/dunning.ts",
+      "start": 632,
+      "end": 896
+    },
+    {
+      "edge": 2177144337,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 974,
+      "end": 1225
+    },
+    {
+      "edge": 2177144509,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 974,
+      "end": 1183
+    },
+    {
+      "edge": 2177144571,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 974,
+      "end": 1212
+    },
+    {
+      "edge": 2177144829,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 974,
+      "end": 1087
+    },
+    {
+      "edge": 2177144857,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1821,
+      "end": 1822
+    },
+    {
+      "edge": 2177144861,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1266,
+      "end": 1267
+    },
+    {
+      "edge": 2177144883,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 846,
+      "end": 856
+    },
+    {
+      "edge": 2177144917,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1183,
+      "end": 1210
+    },
+    {
+      "edge": 2177144937,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1225,
+      "end": 1266
+    },
+    {
+      "edge": 2177144939,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1225,
+      "end": 1267
+    },
+    {
+      "edge": 2177145077,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1212,
+      "end": 1225
+    },
+    {
+      "edge": 2177145105,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 544,
+      "end": 679
+    },
+    {
+      "edge": 2177145125,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 856,
+      "end": 965
+    },
+    {
+      "edge": 2177145173,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1578,
+      "end": 1679
+    },
+    {
+      "edge": 2177145185,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1087,
+      "end": 1152
+    },
+    {
+      "edge": 2177145539,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 544,
+      "end": 846
+    },
+    {
+      "edge": 2177145585,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1276,
+      "end": 1419
+    },
+    {
+      "edge": 2177145613,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 679,
+      "end": 814
+    },
+    {
+      "edge": 2177145659,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/ledger.ts",
+      "start": 1679,
+      "end": 1821
+    },
+    {
+      "edge": 2215223648,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 982,
+      "end": 1114
+    },
+    {
+      "edge": 2215223688,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 982,
+      "end": 1070
+    },
+    {
+      "edge": 2215224082,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 982,
+      "end": 1379
+    },
+    {
+      "edge": 2215224098,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 982,
+      "end": 1403
+    },
+    {
+      "edge": 2215226424,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1114,
+      "end": 1402
+    },
+    {
+      "edge": 2215226496,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 751,
+      "end": 915
+    },
+    {
+      "edge": 2215226608,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 751,
+      "end": 939
+    },
+    {
+      "edge": 2215226662,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 751,
+      "end": 832
+    },
+    {
+      "edge": 2215226674,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 1983
+    },
+    {
+      "edge": 2215226676,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 751,
+      "end": 841
+    },
+    {
+      "edge": 2215226750,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 751,
+      "end": 876
+    },
+    {
+      "edge": 2215226772,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 2028
+    },
+    {
+      "edge": 2215226792,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 2034
+    },
+    {
+      "edge": 2215226820,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 1988
+    },
+    {
+      "edge": 2215226880,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 735,
+      "end": 739
+    },
+    {
+      "edge": 2215226882,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 2078,
+      "end": 2083
+    },
+    {
+      "edge": 2215226890,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 841,
+      "end": 880
+    },
+    {
+      "edge": 2215226908,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 2065,
+      "end": 2083
+    },
+    {
+      "edge": 2215226944,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 2061,
+      "end": 2065
+    },
+    {
+      "edge": 2215226946,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 2028,
+      "end": 2033
+    },
+    {
+      "edge": 2215226950,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 939,
+      "end": 948
+    },
+    {
+      "edge": 2215226954,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1379,
+      "end": 1402
+    },
+    {
+      "edge": 2215226970,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1988,
+      "end": 2005
+    },
+    {
+      "edge": 2215226976,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 2066,
+      "end": 2078
+    },
+    {
+      "edge": 2215226986,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 832,
+      "end": 841
+    },
+    {
+      "edge": 2215226992,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 2034,
+      "end": 2038
+    },
+    {
+      "edge": 2215226994,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 739,
+      "end": 742
+    },
+    {
+      "edge": 2215227002,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 972,
+      "end": 973
+    },
+    {
+      "edge": 2215227006,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1760,
+      "end": 1763
+    },
+    {
+      "edge": 2215227008,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1983,
+      "end": 1987
+    },
+    {
+      "edge": 2215227018,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 948,
+      "end": 973
+    },
+    {
+      "edge": 2215227024,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1070,
+      "end": 1114
+    },
+    {
+      "edge": 2215227042,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 1655
+    },
+    {
+      "edge": 2215227044,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1713,
+      "end": 1759
+    },
+    {
+      "edge": 2215227062,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 939,
+      "end": 972
+    },
+    {
+      "edge": 2215227098,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 654,
+      "end": 735
+    },
+    {
+      "edge": 2215227102,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1676,
+      "end": 1759
+    },
+    {
+      "edge": 2215227182,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 1713
+    },
+    {
+      "edge": 2215227220,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 1676
+    },
+    {
+      "edge": 2215227266,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1406,
+      "end": 1411
+    },
+    {
+      "edge": 2215227274,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1402,
+      "end": 1411
+    },
+    {
+      "edge": 2215227276,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 1760
+    },
+    {
+      "edge": 2215227278,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1655,
+      "end": 1676
+    },
+    {
+      "edge": 2215227990,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 2061
+    },
+    {
+      "edge": 2215228008,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/currency.ts",
+      "start": 1562,
+      "end": 2066
+    },
+    {
+      "edge": 2522748283,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 965,
+      "end": 1062
+    },
+    {
+      "edge": 2522748311,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 965,
+      "end": 1104
+    },
+    {
+      "edge": 2522748337,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 965,
+      "end": 1091
+    },
+    {
+      "edge": 2522748383,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 965,
+      "end": 1140
+    },
+    {
+      "edge": 2522748953,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 730,
+      "end": 904
+    },
+    {
+      "edge": 2522748963,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 730,
+      "end": 917
+    },
+    {
+      "edge": 2522749271,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 730,
+      "end": 815
+    },
+    {
+      "edge": 2522749297,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 730,
+      "end": 828
+    },
+    {
+      "edge": 2522749323,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1212,
+      "end": 1319
+    },
+    {
+      "edge": 2522749373,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 730,
+      "end": 858
+    },
+    {
+      "edge": 2522749383,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 730,
+      "end": 871
+    },
+    {
+      "edge": 2522749393,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1212,
+      "end": 1290
+    },
+    {
+      "edge": 2522749417,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1212,
+      "end": 1302
+    },
+    {
+      "edge": 2522749555,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1062,
+      "end": 1089
+    },
+    {
+      "edge": 2522749571,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1290,
+      "end": 1301
+    },
+    {
+      "edge": 2522749575,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 904,
+      "end": 917
+    },
+    {
+      "edge": 2522749595,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 815,
+      "end": 828
+    },
+    {
+      "edge": 2522749619,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 955,
+      "end": 956
+    },
+    {
+      "edge": 2522749627,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1316,
+      "end": 1319
+    },
+    {
+      "edge": 2522749631,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1202,
+      "end": 1203
+    },
+    {
+      "edge": 2522749639,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 858,
+      "end": 871
+    },
+    {
+      "edge": 2522749657,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1302,
+      "end": 1316
+    },
+    {
+      "edge": 2522749665,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 917,
+      "end": 955
+    },
+    {
+      "edge": 2522749679,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 917,
+      "end": 956
+    },
+    {
+      "edge": 2522749701,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 871,
+      "end": 955
+    },
+    {
+      "edge": 2522749783,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1140,
+      "end": 1153
+    },
+    {
+      "edge": 2522749817,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 1104,
+      "end": 1202
+    },
+    {
+      "edge": 2522749875,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/validation.ts",
+      "start": 828,
+      "end": 955
+    },
+    {
+      "edge": 2633654655,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1491,
+      "end": 1746
+    },
+    {
+      "edge": 2633654735,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1491,
+      "end": 1674
+    },
+    {
+      "edge": 2633655373,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1206,
+      "end": 1326
+    },
+    {
+      "edge": 2633655841,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1336,
+      "end": 1430
+    },
+    {
+      "edge": 2633655939,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1097,
+      "end": 1206
+    },
+    {
+      "edge": 2633655949,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 3448,
+      "end": 3456
+    },
+    {
+      "edge": 2633656061,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 3445,
+      "end": 3509
+    },
+    {
+      "edge": 2633656087,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 3456,
+      "end": 3509
+    },
+    {
+      "edge": 2633656151,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 3424,
+      "end": 3445
+    },
+    {
+      "edge": 2633656157,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1730,
+      "end": 1746
+    },
+    {
+      "edge": 2633656187,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1481,
+      "end": 1482
+    },
+    {
+      "edge": 2633656191,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1326,
+      "end": 1327
+    },
+    {
+      "edge": 2633656209,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 3342,
+      "end": 3448
+    },
+    {
+      "edge": 2633656225,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 3342,
+      "end": 3424
+    },
+    {
+      "edge": 2633656259,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1430,
+      "end": 1481
+    },
+    {
+      "edge": 2633656301,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/reports.ts",
+      "start": 1674,
+      "end": 1730
+    },
+    {
+      "edge": 2875946192,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1098,
+      "end": 1226
+    },
+    {
+      "edge": 2875946210,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1098,
+      "end": 1235
+    },
+    {
+      "edge": 2875946286,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1086,
+      "end": 1089
+    },
+    {
+      "edge": 2875946456,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1082,
+      "end": 1086
+    },
+    {
+      "edge": 2875946462,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1299,
+      "end": 1300
+    },
+    {
+      "edge": 2875946466,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1226,
+      "end": 1235
+    },
+    {
+      "edge": 2875946576,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1235,
+      "end": 1299
+    },
+    {
+      "edge": 2875946590,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 1235,
+      "end": 1300
+    },
+    {
+      "edge": 2875947556,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/tax.ts",
+      "start": 960,
+      "end": 1082
+    },
+    {
+      "edge": 3530383889,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 983,
+      "end": 1050
+    },
+    {
+      "edge": 3530383939,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1023,
+      "end": 1051
+    },
+    {
+      "edge": 3530384165,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 844,
+      "end": 1051
+    },
+    {
+      "edge": 3530384267,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 795,
+      "end": 1051
+    },
+    {
+      "edge": 3530384273,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 790,
+      "end": 1051
+    },
+    {
+      "edge": 3530385433,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 787
+    },
+    {
+      "edge": 3530385591,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 836
+    },
+    {
+      "edge": 3530385603,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 894
+    },
+    {
+      "edge": 3530385763,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 942
+    },
+    {
+      "edge": 3530385809,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 983
+    },
+    {
+      "edge": 3530386079,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 592
+    },
+    {
+      "edge": 3530386097,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 583
+    },
+    {
+      "edge": 3530386229,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 645
+    },
+    {
+      "edge": 3530386351,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 712
+    },
+    {
+      "edge": 3530386383,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 474,
+      "end": 760
+    },
+    {
+      "edge": 3530386471,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 332,
+      "end": 410
+    },
+    {
+      "edge": 3530386477,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 894,
+      "end": 941
+    },
+    {
+      "edge": 3530386517,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 332,
+      "end": 419
+    },
+    {
+      "edge": 3530386521,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 836,
+      "end": 941
+    },
+    {
+      "edge": 3530386697,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1439,
+      "end": 1502
+    },
+    {
+      "edge": 3530386705,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 645,
+      "end": 712
+    },
+    {
+      "edge": 3530386797,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 419,
+      "end": 464
+    },
+    {
+      "edge": 3530386799,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 419,
+      "end": 465
+    },
+    {
+      "edge": 3530386801,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1443,
+      "end": 1502
+    },
+    {
+      "edge": 3530386803,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 942,
+      "end": 978
+    },
+    {
+      "edge": 3530386817,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 787,
+      "end": 790
+    },
+    {
+      "edge": 3530386825,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 464,
+      "end": 465
+    },
+    {
+      "edge": 3530386829,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1440,
+      "end": 1443
+    },
+    {
+      "edge": 3530386833,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1397,
+      "end": 1400
+    },
+    {
+      "edge": 3530386841,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "edge": 3530386843,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 836,
+      "end": 844
+    },
+    {
+      "edge": 3530386853,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 583,
+      "end": 592
+    },
+    {
+      "edge": 3530386869,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1387,
+      "end": 1396
+    },
+    {
+      "edge": 3530386875,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1325,
+      "end": 1333
+    },
+    {
+      "edge": 3530386907,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 983,
+      "end": 1023
+    },
+    {
+      "edge": 3530386937,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 410,
+      "end": 419
+    },
+    {
+      "edge": 3530386989,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 712,
+      "end": 795
+    },
+    {
+      "edge": 3530387009,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1224,
+      "end": 1325
+    },
+    {
+      "edge": 3530387039,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 760,
+      "end": 786
+    },
+    {
+      "edge": 3530387063,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1224,
+      "end": 1334
+    },
+    {
+      "edge": 3530387149,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1224,
+      "end": 1387
+    },
+    {
+      "edge": 3530387185,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1224,
+      "end": 1397
+    },
+    {
+      "edge": 3530387255,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1224,
+      "end": 1430
+    },
+    {
+      "edge": 3530387291,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 1224,
+      "end": 1440
+    },
+    {
+      "edge": 3530387375,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/coupons.ts",
+      "start": 592,
+      "end": 834
+    },
+    {
+      "edge": 3981648642,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 425,
+      "end": 516
+    },
+    {
+      "edge": 3981648656,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 425,
+      "end": 525
+    },
+    {
+      "edge": 3981648742,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 425,
+      "end": 566
+    },
+    {
+      "edge": 3981648814,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 505,
+      "end": 514
+    },
+    {
+      "edge": 3981648904,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1864,
+      "end": 1888
+    },
+    {
+      "edge": 3981648930,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 2054,
+      "end": 2107
+    },
+    {
+      "edge": 3981648934,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1095,
+      "end": 1144
+    },
+    {
+      "edge": 3981648936,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 525,
+      "end": 565
+    },
+    {
+      "edge": 3981648942,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 525,
+      "end": 566
+    },
+    {
+      "edge": 3981648962,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 769,
+      "end": 780
+    },
+    {
+      "edge": 3981648970,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 912,
+      "end": 921
+    },
+    {
+      "edge": 3981648974,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1808,
+      "end": 1819
+    },
+    {
+      "edge": 3981648978,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1889,
+      "end": 1892
+    },
+    {
+      "edge": 3981648986,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 2106,
+      "end": 2107
+    },
+    {
+      "edge": 3981648990,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 780,
+      "end": 783
+    },
+    {
+      "edge": 3981648996,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1260,
+      "end": 1266
+    },
+    {
+      "edge": 3981649018,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 686,
+      "end": 703
+    },
+    {
+      "edge": 3981649070,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1819,
+      "end": 1888
+    },
+    {
+      "edge": 3981649118,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1201,
+      "end": 1266
+    },
+    {
+      "edge": 3981649132,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1206,
+      "end": 1260
+    },
+    {
+      "edge": 3981649142,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1045,
+      "end": 1090
+    },
+    {
+      "edge": 3981649144,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 425,
+      "end": 505
+    },
+    {
+      "edge": 3981649224,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 912
+    },
+    {
+      "edge": 3981649238,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 568,
+      "end": 703
+    },
+    {
+      "edge": 3981649242,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 921
+    },
+    {
+      "edge": 3981649268,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 568,
+      "end": 686
+    },
+    {
+      "edge": 3981649292,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 568,
+      "end": 722
+    },
+    {
+      "edge": 3981649302,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 568,
+      "end": 735
+    },
+    {
+      "edge": 3981649316,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 998
+    },
+    {
+      "edge": 3981649344,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1149,
+      "end": 1201
+    },
+    {
+      "edge": 3981649414,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1275,
+      "end": 1492
+    },
+    {
+      "edge": 3981649436,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 1864
+    },
+    {
+      "edge": 3981649450,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 568,
+      "end": 769
+    },
+    {
+      "edge": 3981649486,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 1889
+    },
+    {
+      "edge": 3981649580,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 1808
+    },
+    {
+      "edge": 3981649594,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 1819
+    },
+    {
+      "edge": 3981649702,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 703,
+      "end": 768
+    },
+    {
+      "edge": 3981649708,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 2000
+    },
+    {
+      "edge": 3981649768,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 2034
+    },
+    {
+      "edge": 3981649894,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 735,
+      "end": 768
+    },
+    {
+      "edge": 3981650498,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 1045
+    },
+    {
+      "edge": 3981650578,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 1149
+    },
+    {
+      "edge": 3981650662,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 1095
+    },
+    {
+      "edge": 3981650692,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 792,
+      "end": 1206
+    },
+    {
+      "edge": 3981650762,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 921,
+      "end": 1040
+    },
+    {
+      "edge": 3981650868,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 998,
+      "end": 1040
+    },
+    {
+      "edge": 3981654154,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1642,
+      "end": 2051
+    },
+    {
+      "edge": 3981654758,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 1892,
+      "end": 2107
+    },
+    {
+      "edge": 3981654924,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 2000,
+      "end": 2106
+    },
+    {
+      "edge": 3981654968,
+      "url": "file:///home/dusti/repos/autofuzz/packages/harness-js/test-targets/billing/src/rounding.ts",
+      "start": 2034,
+      "end": 2050
+    }
+  ]
+}
