@@ -19,7 +19,8 @@ const packageRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 // The wire-vocabulary contract lives in the engine repository. `AFZ_DOCS` names an engine
 // checkout (CI sets it); the default is the sibling checkout of this repository.
 const docsDir = process.env.AFZ_DOCS ?? resolve(packageRoot, "..", "autofuzz", "docs");
-const schemaDir = join(docsDir, "schema");
+// One directory per protocol revision (engine decision 0016); this plugin speaks afz/1.
+const schemaDir = join(docsDir, "schema", "afz-1");
 const design = join(docsDir, "architecture.md");
 
 function schema(name) {
