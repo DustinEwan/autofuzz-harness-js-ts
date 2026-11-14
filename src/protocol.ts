@@ -13,6 +13,7 @@ export const METHOD_INVOKE = "invoke";
 export const METHOD_MINIMIZE = "minimize";
 export const METHOD_REPRODUCER = "reproducer";
 export const METHOD_COVERAGE_MAP = "coverageMap";
+export const METHOD_READY = "ready";
 
 // The runtime vocabulary. `test/contract.ts` compares each list against the JSON Schema that
 // `cargo run -p afz-xtask -- schema` generates from the Rust types, so the two sides cannot
@@ -66,7 +67,7 @@ export const SKIP_REASONS = [
 ] as const;
 export const OUTCOME_KINDS = ["ok", "rejected", "failed"] as const;
 export const MATERIALIZATIONS = ["constructible", "fixture-required", "opaque"] as const;
-export const CAPABILITY_NAMES = ["coverage", "stateful", "minimize", "reproducer", "sideEffects", "concurrent"] as const;
+export const CAPABILITY_NAMES = ["coverage", "stateful", "minimize", "reproducer", "sideEffects", "concurrent", "readiness"] as const;
 export const METHOD_NAMES = [
   METHOD_HANDSHAKE,
   METHOD_DISCOVER,
@@ -75,6 +76,7 @@ export const METHOD_NAMES = [
   METHOD_MINIMIZE,
   METHOD_REPRODUCER,
   METHOD_COVERAGE_MAP,
+  METHOD_READY,
 ] as const;
 
 export const PARSE_ERROR = -32700;
