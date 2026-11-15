@@ -57,7 +57,7 @@ The emitter is a standalone program: `conformance/emit.mjs` imports `node:fs`, `
 
 ## The conformance project
 
-`conformance/emit.mjs` renders a small pricing package and the manifest that names the symbol behind each template property. `conformance/validate.mjs` is the project's own fixture validator: it imports the rendered fixture and the Node standard library only — never the plugin, never the emitter — and the suite requires its verdicts to agree with the plugin's.
+`conformance/emit.mjs` renders a small pricing package — `src/pricing.ts`, plus `src/unloadable.ts`, the module whose own top level throws — and the manifest that names the symbol behind each of the template's twelve properties. `conformance/validate.mjs` is the project's own fixture validator: it imports the rendered fixture and the Node standard library only — never the plugin, never the emitter — reports the seven fixture-shaped properties, and the suite requires its verdicts to agree with the plugin's.
 
 ## The contract
 

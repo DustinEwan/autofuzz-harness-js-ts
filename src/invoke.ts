@@ -249,7 +249,8 @@ function isThenable(value: unknown): value is PromiseLike<unknown> {
 /**
  * Re-encode a returned value as a `ValueTree` so the report can show it. Anything the wire
  * cannot name — a live function, a cycle — becomes an `opaque` node that says what it was,
- * rather than a plausible-looking stand-in.
+ * rather than a plausible-looking stand-in. A *whole* return value that cannot be named carries
+ * no node at all; see `returnValue`.
  */
 export function toValueTree(value: unknown, seen = new WeakSet<object>()): ValueTree {
   if (value === null) return { node: "null" };
@@ -311,6 +312,20 @@ export function toValueTree(value: unknown, seen = new WeakSet<object>()): Value
   return opaque(tag.toLowerCase());
 }
 
+/**
+ * The wire form of a call's result, or nothing when the result has no wire form at all: a
+ * symbol, a live closure, an object the vocabulary cannot name. The call itself succeeded, so
+ * the outcome stays `ok` and simply carries no value — `ok` with a stand-in the wire cannot
+ * carry, or `failed` because the harness could not describe the result, both report a call that
+ * never happened as a problem with the target. A value nested inside a representable container
+ * keeps its `opaque` node, because there the container is real and the node says which field
+ * was dropped.
+ */
+function returnValue(value: unknown): ValueTree | undefined {
+  const tree = toValueTree(value);
+  return tree.node === "opaque" ? undefined : tree;
+}
+
 function prepareSkip(detail: string): PrepareResp {
   // The wire skip carries only a reason; the explanation goes to the plugin's stderr, which the
   // engine surfaces in `afz probe-plugin` output, because `prepare` has no detail field.
@@ -343,7 +358,7 @@ async function callTarget(job: WorkerJob, resolved: Resolved, maps: ReadonlyMap<
       kind: "ok",
       durationMs: elapsed(),
       memoryBytes: grewBytes(),
-      value: toValueTree(settled),
+      value: returnValue(settled),
     };
   } catch (error) {
     const cause = toHarnessError(error, maps);

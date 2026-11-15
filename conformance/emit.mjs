@@ -2,7 +2,7 @@
 // Render the conformance fixture project for the js-ts harness.
 //
 // `afz validate-harness` and `afz-xtask check-harness` validate a plugin against the template
-// (`crates/afz-conformance/template/v1.json`): ten semantic properties stated as wire-level
+// (`crates/afz-conformance/template/v1.json`): twelve semantic properties stated as wire-level
 // expectations. This emitter writes a small TypeScript package that realizes every property
 // the language can express, the `autofuzz.json` that points the plugin at it, and
 // `afz-conformance-manifest.json` naming the symbol behind each property. The suite, not this
@@ -94,6 +94,34 @@ export function spin(ms: number): string {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
   return "done";
 }
+
+/**
+ * opaque-return: the symbol this returns has no wire form, so \`invoke\` must answer \`ok\` and
+ * carry no value. Failing the call because the result cannot be described, or inventing a node
+ * for it, is exactly what this property catches.
+ */
+export function reading(value: number): symbol {
+  return Symbol("reading:" + String(value));
+}
+`;
+
+// Its own module, on purpose: the top level throws, so nothing else may share the file. The
+// property is about isolation as much as about the skip, and discovery reads this file with the
+// TypeScript compiler without ever running it, so `broken` is still listed as a target.
+const UNLOADABLE_TS = `// Rendered by conformance/emit.mjs - do not edit by hand.
+
+/**
+ * unbuildable-symbol: discovery accepts this signature from the source text, so the symbol is
+ * listed in \`targets\`. The module's own top level throws, so the harness's import of it fails
+ * when the symbol is prepared, and \`prepare\` must answer \`ok: false\` with reason
+ * \`discovery-error\` - for this symbol alone, because every other fixture symbol lives in
+ * \`pricing.ts\`, which loads.
+ */
+export function broken(value: number): number {
+  return value + 1;
+}
+
+throw new Error("afz-conformance: this module cannot be loaded");
 `;
 
 const autofuzz = {
@@ -134,6 +162,11 @@ const manifest = {
     "reproducer-script": { symbol: "tieredPrice", input: [number(5)] },
     // 30 000 ms against the suite's 1000 ms default: only a real cut answers inside it.
     "deadline-sleep": { symbol: "spin", input: [number(30000)] },
+    // A return value the wire cannot carry: the call must still answer ok, with no value.
+    "opaque-return": { symbol: "reading", input: [number(3)] },
+    // Listed by discovery, refused by the harness's own import of its module; `Invoice.addLine`
+    // above is the isolation sibling that must still prepare.
+    "unbuildable-symbol": { symbol: "broken", input: [number(0)] },
   },
   // The project judges its own fixture: Node strips the type annotations itself, so the
   // validator imports `src/pricing.ts` with no plugin and no emitter in the path.
@@ -144,6 +177,7 @@ function emit(out) {
   mkdirSync(join(out, "src"), { recursive: true });
   mkdirSync(join(out, "conformance"), { recursive: true });
   writeFileSync(join(out, "src", "pricing.ts"), PRICING_TS);
+  writeFileSync(join(out, "src", "unloadable.ts"), UNLOADABLE_TS);
   copyFileSync(new URL("./validate.mjs", import.meta.url), join(out, "conformance", "validate.mjs"));
   writeFileSync(join(out, "autofuzz.json"), JSON.stringify(autofuzz, null, 2) + "\n");
   writeFileSync(join(out, "afz-conformance-manifest.json"), JSON.stringify(manifest, null, 2) + "\n");
